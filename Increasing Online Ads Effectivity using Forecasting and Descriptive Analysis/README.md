@@ -4,4 +4,4 @@ make the goal for the analysis to increase the effectiveness of online advertisi
 In this analysis, I use forecasting to predict the MoM growth of our new users and unique visitors. I also use descriptive analysis to find a way to increase the effectivity 
 of our online advertising.
 
-At the end of the project, we were tasked to make a pitch deck on our insight for the company. I have also put those pitch decks in this folder if you want to check them. 
+At the end of the project, we were tasked to make a pitch deck on our insight for the company. I have also put those pitch decks in this folder if you want to check them. Also, here's an alternative link to the jupyter notebook in case you don't want to download the file to access it (https://colab.research.google.com/drive/1SaSwfyY5Quo31A8y9pWCAuDSZB-fPqUg?usp=sharing) 
