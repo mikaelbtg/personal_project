@@ -9,3 +9,5 @@ At the end of the project, we were tasked to make a pitch deck on our insight fo
 Jupyter Notebook : https://colab.research.google.com/drive/1SaSwfyY5Quo31A8y9pWCAuDSZB-fPqUg?usp=sharing
 
 Tableau: https://public.tableau.com/views/IncreasingOnlineAdsEffectivenesstoGainSalesLead/MarketingStory?:language=en-US&:display_count=n&:origin=viz_share_link
+
+Presentation Slides: https://docs.google.com/presentation/d/12kro192u3ikxqjwiX6WDRcjduNQo--rq/edit?usp=sharing&ouid=104562428193070624349&rtpof=true&sd=true
