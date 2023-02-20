@@ -11,3 +11,5 @@ Jupyter Notebook : https://colab.research.google.com/drive/1SaSwfyY5Quo31A8y9pWC
 Tableau: https://public.tableau.com/views/IncreasingOnlineAdsEffectivenesstoGainSalesLead/MarketingStory?:language=en-US&:display_count=n&:origin=viz_share_link
 
 Presentation Slides: https://docs.google.com/presentation/d/12kro192u3ikxqjwiX6WDRcjduNQo--rq/edit?usp=sharing&ouid=104562428193070624349&rtpof=true&sd=true
+
+Group Presentation: https://drive.google.com/file/d/1TfD2IkVBSd3FR4SyuU0QbNJ6Wgs8hEA_/view?usp=share_link
