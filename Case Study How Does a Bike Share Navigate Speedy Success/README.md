@@ -4,6 +4,4 @@ In working on this case study, I used the data analysis framework that was taugh
 6 stages, namely Ask, Prepare, Process, Analyze, Share, and Act. For a more detailed data analysis report, you can access it on the link that I put below.
 </p>
 
-Alternative link
-
 Report: https://docs.google.com/document/d/11wG2EaC2xSsDZyCh07l6Bv4watw2BttgfEA2dL_sf2o/edit?usp=sharing
