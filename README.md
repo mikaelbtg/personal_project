@@ -7,7 +7,7 @@ and Tableau for data visualization. Here are some short description about each p
 Analyzing a customer bike usage dataset from a bike renting company with the intention of providing insight to make a marketing strategy.
 In this project I used SQL to extract the data and R to do EDA and extracting insight.
 
-**Customer Segmentation using KMeans Clustering**
+**Customer Segmentation using KMeans Clustering**  
 Determine the company customer segmentation by creating a clustering model in Python.
 
 **Increasing Online Ads Effectivity using Forecasting and Descriptive Analysis**  
