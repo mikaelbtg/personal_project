@@ -12,4 +12,4 @@ Determine the company customer segmentation by creating a clustering model in Py
 
 **Increasing Online Ads Effectivity using Forecasting and Descriptive Analysis**  
 Predict customer growth by creating a forecast model and try to supplement the company growth by increasing their online ads effectivity by extracting 
-some insight.
+some insight by using Python.
